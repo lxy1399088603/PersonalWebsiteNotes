@@ -1,0 +1,125 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
+#wrap{
+    width: 100%;
+    height: 100%;
+}
+#left{
+    width: 20%;
+    height: 100%;
+    float: left;
+    position: fixed;
+}
+#right{
+    width: 80%;
+    height: 100%;
+    float: right;
+    padding: 3rem 6rem;
+}
+#prointroductionup{
+    width: 100%;
+    height: 9%;
+    /*background-image: url('../image/wg.svg');*/
+    background-color: #84E6F8;
+}
+#prointroductiondown{
+    width: 100%;
+    height: 6%;
+    background-color: #84E6F8;
+    /*background-color: #A7ECC9;*/
+    opacity: 0.7;
+}
+#function_section_left{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#function_section_right{
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+
+#catalogue{
+    width: 100%;
+    height: 85%;
+    background-color: #323232;
+}
+*{
+    text-decoration: none;
+    list-style:none
+}
+.nextLevel{
+    width: 100%;
+}
+
+#xx{
+    overflow: hidden;
+}
+ul{
+    padding:0px;
+    margin: 0px;
+}
+li{
+    font-size: 14px;
+    height: 35px;
+    width: 100%;
+    color: #ccc;
+    padding: 8px 12px;
+}
+li:hover{
+    background-color: #F5F9E9;
+    cursor: pointer;
+    color: #323232;
+}
+.cofecup{
+    fill: #cccccc;
+}
+.mist{
+    fill: #cccccc;
+}
+#icon_java{
+    width: 14px;
+    height: 14px;
+}
+
+#icon_github{
+    width: 28px;
+    height: 28px;
+    float: right;
+    margin: 10px;
+    opacity: 1;
+}
+
+#icon_fit{
+    width: 28px;
+    height: 28px;
+    float: left;
+    margin: 10px;
+    opacity: 1;
+}
+
+
+#myModal{
+    z-index: 1050;
+}
+
+
+.btn{
+    font-weight: 600;
+    line-height: 1.25;
+    padding: 0.25rem 1.25rem;
+    font-family: "Source Sans Pro",sans-serif;
+    cursor: pointer;
+    color: #00c96a;
+    background-color: #fff;
+    border-color: #00c96a;
+    font-size: 1rem;
+}
+
+#addCata{
+    display: none;
+}

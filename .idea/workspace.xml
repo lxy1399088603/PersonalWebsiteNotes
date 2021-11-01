@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b29ef2e-eb19-4755-90ef-f169582290d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\work\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\work\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20GR6J3U55iMez9kNBhcOcaUT42" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/image" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\springbootWorkspace\new\website\src\main\resources\static\image" />
+      <recent name="F:\work\springbootWorkspace\new\website\src\main\resources\static" />
+      <recent name="F:\work\springbootWorkspace\new\website\src\main\resources\public" />
+      <recent name="F:\work\springbootWorkspace\new\website\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\springbootWorkspace\new\website\src\main\resources\static\css" />
+      <recent name="F:\work\springbootWorkspace\new\website\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebsiteApplication">
+    <configuration name="Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="website" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lxy.personal.website.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lxy.personal.website.test" />
+      <option name="MAIN_CLASS_NAME" value="lxy.personal.website.test.Test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsiteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="website" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lxy.personal.website.WebsiteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b29ef2e-eb19-4755-90ef-f169582290d9" name="Default Changelist" comment="" />
+      <created>1635668760781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635668760781</updated>
+      <workItem from="1635668769209" duration="4664000" />
+      <workItem from="1635677606373" duration="13801000" />
+      <workItem from="1635728032275" duration="10718000" />
+      <workItem from="1635742892585" duration="11320000" />
+      <workItem from="1635755946403" duration="11878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1635751918494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1635751918494" />
+    <state x="478" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1635678468032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1635678468032" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1635768283581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1635768283581" />
+    <state width="1493" height="59" key="GridCell.Tab.0.bottom" timestamp="1635771109089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635771109089" />
+    <state width="1493" height="59" key="GridCell.Tab.0.center" timestamp="1635771109088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635771109088" />
+    <state width="1493" height="59" key="GridCell.Tab.0.left" timestamp="1635771109088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635771109088" />
+    <state width="1493" height="59" key="GridCell.Tab.0.right" timestamp="1635771109088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635771109088" />
+    <state width="1493" height="59" key="GridCell.Tab.1.bottom" timestamp="1635771109090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635771109090" />
+    <state width="1493" height="59" key="GridCell.Tab.1.center" timestamp="1635771109089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635771109089" />
+    <state width="1493" height="59" key="GridCell.Tab.1.left" timestamp="1635771109089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635771109089" />
+    <state width="1493" height="59" key="GridCell.Tab.1.right" timestamp="1635771109089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635771109089" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1635744326285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1635744326285" />
+    <state width="300" height="60" key="javadoc.popup.new" timestamp="1635770800470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="300" height="60" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1635770800470" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1635764235580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1635764235580" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1635764229925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1635764229925" />
+  </component>
+</project>
