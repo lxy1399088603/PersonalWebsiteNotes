@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="lxy.personal.website.dao.CatalogueMapper">
+
+
+    <select id="getAllCata" resultType="lxy.personal.website.entity.Catalogue">
+        select a.cat_id,cat_level,cat_super_id,cat_area,cat_link,cat_content,cat_sort,COALESCE(cat_children_number,0) as cat_children_number from catalogue a
+        left join catalogue_children b on a.cat_id = b.cat_id;
+    </select>
+
+</mapper>
